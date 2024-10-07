@@ -1,0 +1,29 @@
+
+The following exercises are to be added on to the dashboard created in the beginner assignment:
+
+1. Add a drill through feature based on status
+
+2. Hide and Show slicer panel using bookmark (include a shape and apply buttons)
+
+3. Create a table of content page using page navigation
+
+4. Use calculate function to show total Value on Order and Value Invoiced using sum function and place it on card visuals (status = completed)
+
+6. Calculate Balance and place it on a card visual. (Value on Order - Value Invoiced)
+
+7. Use lookup to bring status description from status master to the sales table using statuscode. 
+
+8. Total number of customers (Count customer ID)
+
+9. Come up with three additional measures or calcualted columns on your own
+
+10. Validate different figures in your dashboard with the excel data file. (Recommended to click on different parts of visuals as well.) (Verification sheet attached)
+
+
+
+
+Note: Use the same dataset for the beginner exercise.
+           Please refer to the training video for any confusion.
+	
+
+

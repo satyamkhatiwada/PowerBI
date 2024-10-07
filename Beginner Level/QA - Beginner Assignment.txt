@@ -1,0 +1,25 @@
+
+Load Data from Excel Workbook provided
+Resolve errors (if any)
+Check if any headers have been included as rows in Power BI using Power Query Editor
+Create a Data Model (create relationships)
+Create a Dashboard with the following:
+
+Charts:
+
+- Bar Chart (Value on Order with Date Hierarchy).
+- Doughnut chart (Value Invoiced by Status)
+- Table with Customer Name, Value on order and Value invoiced
+- One additional chart by your own analysis.
+- Use creative colors to the charts as per your liking.
+- Color the background of the dashboard.
+- Feel free to add any other charts as you wish.
+
+*Combine the above charts into a single dashboard.
+
+
+Slicers:
+
+- Customer Name
+- Status
+- Hierarchical slicer (Year, Month and Day) 
