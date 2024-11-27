@@ -1,0 +1,24 @@
+
+Expert assignment
+
+
+1. Create MTD, QTD and YTD (Value on order)
+
+2. Create Average Sales and place it in a card. 
+
+3. % of completed orders against total purchases (Completed orders*/ Total Purchases)
+   *Delivered orders = Sum Sales orders for order status “complete” using calculate function.
+
+4. Create Switch for Sales and include MTD, QTD and YTD (like the example shown in the training)
+
+5. Current vs Last year for Sales by using variables.
+
+6. Year on Year Growth [(Current Sales - Last Sales)/ Last Sales]
+
+7. Create a role for row level security and publish in the power bi Service.
+
+8. Analyze and create two measures of your choosing (preferrable with variables).
+
+
+
+*Please build on the previous assignment dashboard.
